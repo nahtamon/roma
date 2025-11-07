@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<rss version="2.0">
+  <channel> 
+       <title>Feria de viajes a Roma - Noticias y Novedades</title> 
+       <link>http://nahtamon.github.io/roma/</link> 
+       <description>Últimas actualizaciones</description> 
+       <item> 
+          <title>Nuevas herramientas tecnológicas para viajeros</title> 
+          <link>http://nahtamon.github.io/roma/</link> 
+          <description>Descubre los últimos dispositivos inteligentes</description> 
+       </item> 
+       <item> 
+          <title>Nuevos lugares para descubrir</title> 
+          <link>http://nahtamon.github.io/roma/</link> 
+          <description>Explora rincones sorprendentes de Roma: plazas escondidas, miradores con vistas y joyas históricas.</descripcion> 
+       </item> 
+    </channel>   
+  </rss> 
